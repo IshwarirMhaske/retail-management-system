@@ -1,71 +1,80 @@
-###################
-What is CodeIgniter
-###################
+# 🌱 GreenNest – Plant & Gardening E-Commerce Website (Retail Management System)
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+## 📌 Overview
 
-*******************
-Release Information
-*******************
+GreenNest is a full-featured plant and gardening e-commerce web application designed to provide users with a seamless online shopping experience for plants, gardening tools, and accessories.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+The platform focuses on a clean UI, smooth user experience, and efficient backend functionality, making it easy for users to browse, select, and purchase products.
 
-**************************
-Changelog and New Features
-**************************
+---
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## 🚀 Features
 
-*******************
-Server Requirements
-*******************
+* 🌿 Browse products by categories
+* 🛒 Add to cart and manage cart items
+* 📦 Place orders with a responsive order form
+* 🔍 View detailed product information
+* 💻 Fully responsive design for all devices
+* ⭐ Featured products section
+* 🧾 Order success and confirmation pages
 
-PHP version 5.6 or newer is recommended.
+---
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+## 🛠️ Technologies Used
 
-************
-Installation
-************
+* Frontend: HTML, CSS, Bootstrap, JavaScript
+* Backend: PHP (CodeIgniter Framework)
+* Database: MySQL
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+---
 
-*******
-License
-*******
+## 📂 Project Structure
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+* `controllers/` → Handles application logic
+* `models/` → Database operations
+* `views/` → UI pages
+* `assets/` → CSS, JS, images
 
-*********
-Resources
-*********
+---
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+## 🎥 Demo Video
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+👉 [Watch Demo Video](https://1drv.ms/v/c/f27581e6ec46dbc4/IQAYQgPwT87PS4PzRwvAR4m8AQnP2kSOIYUdp5lPnkaojTw?e=SRHNN1)
 
-***************
-Acknowledgement
-***************
+---
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+## ▶️ How to Run
+
+1. Clone the repository
+
+   ```bash
+   git clone <your-repo-link>
+   ```
+
+2. Move to project folder
+
+   ```bash
+   cd greennest
+   ```
+
+3. Setup database in MySQL
+
+4. Configure database in CodeIgniter
+
+5. Run project on localhost (XAMPP/WAMP)
+
+---
+
+## 🌐 Future Improvements
+
+* Integrate secure payment gateway
+* Add user authentication and profile management
+* Implement product reviews and ratings
+* Improve UI/UX with modern design trends
+* Deploy on cloud platform
+
+---
+
+## 👩‍💻 Author
+
+Ishwari Mhaske
